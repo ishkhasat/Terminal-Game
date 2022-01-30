@@ -1,6 +1,6 @@
 # World War 2 Millionaire Game
 
-## To start app run this 
+## To start app download files and run this 
 
 ```
 node index.js
